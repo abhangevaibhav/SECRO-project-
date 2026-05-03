@@ -71,7 +71,7 @@ This project demonstrates the practical implementation of **Object-Oriented Prog
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository:
    ```bash
