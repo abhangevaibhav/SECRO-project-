@@ -21,35 +21,33 @@ Contributors are:
 8.Asim Mulani
 
 
-# Smart Engineering Campus Resource Optimizer (SECRO)
-A Java-based console application designed to optimize resource management in an engineering campus.  
+# Smart Engineering Campus Resource Optimizer (SECRO)  
 This project demonstrates the practical implementation of **Object-Oriented Programming (OOP)** concepts to solve real-world problems such as classroom allocation, timetable conflicts, lab utilization, and attendance analysis.
-
 
  Features
 
 **Classroom Allocation**
-  - Allocates classrooms based on student strength and capacity
+   Allocates classrooms based on student strength and capacity
 
    **Faculty Timetable Conflict Detector**
-  - Identifies scheduling conflicts based on periods and time slots
+   Identifies scheduling conflicts based on periods and time slots
 
    **Lab Equipment Utilization Tracker**
-  - Monitors usage of lab equipment and detects overused labs
+   Monitors usage of lab equipment and detects overused labs
 
--  **Smart Attendance Pattern Analyzer**
-  - Categorizes student attendance into Excellent, Good, and Poor
+ **Smart Attendance Pattern Analyzer**
+   Categorizes student attendance into Excellent, Good, and Poor
 
--  **Energy Saving Classroom Suggestion**
-  - Provides suggestions to minimize energy consumption
+  **Energy Saving Classroom Suggestion**
+Provides suggestions to minimize energy consumption
 
 
  Technology Used
 
-- **Java**
-- **Object-Oriented Programming (OOP)**
-- **Arrays & Basic Data Structures**
-- **Scanner Class for Input Handling**
+ **Java**
+ **Object-Oriented Programming (OOP)**
+ **Arrays & Basic Data Structures**
+ **Scanner Class for Input Handling**
 
 
 ## How It Works
@@ -60,14 +58,13 @@ This project demonstrates the practical implementation of **Object-Oriented Prog
 4. Results are displayed on the console
 ##  Project Structure
 
-- MainSECROProject.java → Main driver class (menu + switch-case)
-- ClassroomAllocator → Handles classroom allocation
-- `Conflictdetector → Detects timetable conflicts
-- `lab` → Tracks lab equipment utilization
-- `PatternAnalyzer` → Analyzes attendance patterns
-- `Energy` → Provides energy-saving suggestions
-
-
+ MainSECROProject.java → Main driver class (menu + switch-case)
+ ClassroomAllocator → Handles classroom allocation
+ Conflictdetector → Detects timetable conflicts
+ lab → Tracks lab equipment utilization
+ PatternAnalyzer → Analyzes attendance patterns
+ Energy → Provides energy-saving suggestions
+ 
 ##  How to Run
 
 1. Clone the repository:
