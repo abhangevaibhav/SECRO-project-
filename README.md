@@ -25,7 +25,6 @@ Contributors are:
 A Java-based console application designed to optimize resource management in an engineering campus.  
 This project demonstrates the practical implementation of **Object-Oriented Programming (OOP)** concepts to solve real-world problems such as classroom allocation, timetable conflicts, lab utilization, and attendance analysis.
 
----
 
  Features
 
@@ -52,7 +51,6 @@ This project demonstrates the practical implementation of **Object-Oriented Prog
 - **Arrays & Basic Data Structures**
 - **Scanner Class for Input Handling**
 
----
 
 ## How It Works
 
@@ -62,14 +60,13 @@ This project demonstrates the practical implementation of **Object-Oriented Prog
 4. Results are displayed on the console
 ##  Project Structure
 
-- `MainSECROProject.java` → Main driver class (menu + switch-case)
-- `ClassroomAllocator` → Handles classroom allocation
-- `Conflictdetector` → Detects timetable conflicts
+- MainSECROProject.java → Main driver class (menu + switch-case)
+- ClassroomAllocator → Handles classroom allocation
+- `Conflictdetector → Detects timetable conflicts
 - `lab` → Tracks lab equipment utilization
 - `PatternAnalyzer` → Analyzes attendance patterns
 - `Energy` → Provides energy-saving suggestions
 
----
 
 ##  How to Run
 
